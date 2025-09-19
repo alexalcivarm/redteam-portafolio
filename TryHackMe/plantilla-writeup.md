@@ -1,6 +1,6 @@
 # Título del laboratorio
 
-**Nombre de la máquina / ejercicio:**
+**Nombre de la máquina / ejercicio:** (ej. Detecting Web DDoS)
 **Fuente / Plataforma:** (ej. TryHackMe / HackTheBox / Laboratorio privado)
 **Fecha:** YYYY-MM-DD
 **Autor:** Nombre / alias GitHub
